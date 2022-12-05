@@ -1,0 +1,4 @@
+CREATE TABLE mat_materia(
+    mat_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    mat_nombre VARCHAR(100) NOT NULL
+);

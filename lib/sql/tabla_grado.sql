@@ -1,0 +1,4 @@
+CREATE TABLE grd_grado(
+    grd_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    grd_nombre VARCHAR(100) NOT NULL
+);
